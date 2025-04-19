@@ -1,6 +1,5 @@
 "use client"
-import NavBar from '@/components/NavBar';
-import { ArrowRight, FileText, Sparkles, Layout, Users, Shield, Star } from 'lucide-react';
+import { ArrowRight, FileText, Sparkles, Layout, Users, Star } from 'lucide-react';
 import { useState } from 'react';
 
 export default function LandingPage() {
